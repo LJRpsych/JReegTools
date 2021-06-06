@@ -18,9 +18,10 @@ MakeTopoPlot(
 )
 }
 \arguments{
-\item{data}{Input EEG}
+\item{data}{Input EEG.}
 
-\item{chanLocs}{Provides native support for BioSemi 64 channel arrays. Other
+\item{chanLocs}{NULL input supports BioSemi 64. Other options include BioSemi16,
+BioSemi32 BioSemi64alpha, BioSemi128, and BioSemi256. Other
 arrays may be imported as data frames with columns for channel number, channel
 label, and Cartesian x and y coordinates.}
 

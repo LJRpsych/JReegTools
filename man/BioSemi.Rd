@@ -4,54 +4,16 @@
 \name{BioSemi}
 \alias{BioSemi}
 \alias{BioSemi64}
-\alias{BioSemi16}
-\alias{BioSemi32}
-\alias{BioSemi64alpha}
-\alias{BioSemi128}
-\alias{BioSemi256}
 \title{BioSemi Channel X & Y Coordinates}
 \format{
 A `data.frame` object
-
-An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 241 rows and 9 columns.
-
-An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 257 rows and 9 columns.
-
-An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 67 rows and 9 columns.
-
-An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 131 rows and 9 columns.
-
-An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 259 rows and 9 columns.
 }
 \usage{
 BioSemi64
-
-BioSemi16
-
-BioSemi32
-
-BioSemi64alpha
-
-BioSemi128
-
-BioSemi256
 }
 \description{
 BioSemi Channel X & Y Coordinates
 }
-\section{Functions}{
-\itemize{
-\item \code{BioSemi16}: 64
-
-\item \code{BioSemi32}: 64
-
-\item \code{BioSemi64alpha}: 64
-
-\item \code{BioSemi128}: 64
-
-\item \code{BioSemi256}: 64
-}}
-
 \note{
 X and Y Cartesian coordinates for 64 channels.
 

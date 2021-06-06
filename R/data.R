@@ -6,19 +6,19 @@
 #' @format A `data.frame` object
 "BioSemi64"
 
-#' @describeIn BioSemi 64
+#' @noRd
 "BioSemi16"
 
-#' @describeIn BioSemi 64
+#' @noRd
 "BioSemi32"
 
-#' @describeIn BioSemi 64
+#' @noRd
 "BioSemi64alpha"
 
-#' @describeIn BioSemi 64
+#' @noRd
 "BioSemi128"
 
-#' @describeIn BioSemi 64
+#' @noRd
 "BioSemi256"
 
 

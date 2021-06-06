@@ -1,0 +1,23 @@
+Package: JReegTools
+Type: Package
+Title: EEG data visualization tools
+Version: 0.0.81
+Author: Jack
+Maintainer: Jack <rhodesjack01@gmail.com>
+Description: Provides support for plotting EEG data as topoplots, scalp maps,
+    etc. Provides native support for BioSemi 64 electrode arrays, with the 
+    capacity to import user-provided channel maps for any system.
+License: GPL-3
+Imports: dplyr,
+         ggplot2,
+         isoband,
+         mgcv,
+         purrr,
+         readxl,
+         rlang,
+         scales,
+         tibble,
+         tidyr
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1

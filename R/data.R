@@ -1,4 +1,4 @@
-#' @name BioSemi
+#' @name BioSemi64
 #' @title BioSemi Channel X & Y Coordinates
 #' @note X and Y Cartesian coordinates for 64 channels.
 #' @note Other included arrays include BioSemi 16, 32, 128, & 256 channel arrays.
